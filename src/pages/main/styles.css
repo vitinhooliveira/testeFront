@@ -1,0 +1,52 @@
+.product-list .button{
+    color: #fff;
+
+}
+
+.product-list .pages{
+    background-color: rgb(145, 134, 134);
+    color: black;
+    font-size: 16px;
+    font-weight: bold;    
+    padding: 10px;
+   
+
+}
+.product-list .pagesleft{
+    left: 3px;
+    padding: 10px;
+    border-radius: 5px;
+    border: 0;
+    background: #da552f;
+    color: #fff;
+    font-size: 16px;
+    font-weight: bold;
+    margin-top: 10px;
+
+}
+.product-list .pagesleft:hover{
+    opacity: 0.7;
+}
+
+.product-list .pagesleft [disabled]{
+    opacity: 0.5;
+    cursor: default;
+}
+
+
+.product-list .pagesright{
+    left: 500px;
+    padding: 10px;
+    border-radius: 5px;
+    border: 0;
+    background: #da552f;
+    color: #fff;
+    font-size: 16px;
+    font-weight: bold;
+    margin-top: 10px;
+    
+}
+
+.product-list .pagesright:hover{
+    opacity: 0.7;
+}

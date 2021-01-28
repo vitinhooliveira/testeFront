@@ -1,0 +1,17 @@
+.product-list {
+  max-width: 700px;
+  margin: 20px auto 0;
+  padding: 0 20px;
+}
+
+.product-list .imagem {
+  align-items: center;
+}
+
+
+.product-list .home {
+  color: black;
+  font-size: 40px;
+  font-weight: bold;
+  margin-top: 10px;
+}
